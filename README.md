@@ -32,14 +32,8 @@
 ---
 
 ### 📈 GitHub Stats
-![Nachiket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nachiketv02&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nachiketv02&layout=compact&theme=radical)
 
----
-
-### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=Nachiketv02&theme=radical)
 
 ---
 
