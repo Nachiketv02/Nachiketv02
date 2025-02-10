@@ -19,6 +19,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
 
 **Backend & Databases:**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
