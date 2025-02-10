@@ -7,7 +7,7 @@
 
 ---
 
-
+**Programming & Scripting:**
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
