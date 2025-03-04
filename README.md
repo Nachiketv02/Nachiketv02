@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Nachiket Vaddoriya</h1>
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **GoFlex**.
+- 🔭 I’m currently working on **TripBNG**.
 - 👯 I’m looking to collaborate on **MERN Stack Project**.
 - 📫 How to reach me: **nachiketv03@gmail.com**.
 
