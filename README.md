@@ -54,7 +54,7 @@
 ---
 
 ### 📂 Featured Projects
-- **[Nookify](https://github.com/Nachiketv02/Nookify)** - Nookify is an online marketplace that connects people looking for short-term accommodations with property owners who want to rent out their spaces..
+- **[StayZio](https://github.com/Nachiketv02/StayZio)** - StayZio is an online marketplace that connects people looking for short-term accommodations with property owners who want to rent out their spaces..
 - **[GoFlex](https://github.com/Nachiketv02/GoFlex)** - GoFlex is ride-hailing service that provides bike, taxis, autos, and cabs.
 
 ---
