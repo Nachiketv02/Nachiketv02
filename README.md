@@ -55,6 +55,10 @@
 
 ### 📂 Featured Projects
 - **[StayZio](https://github.com/Nachiketv02/StayZio)** - StayZio is an online marketplace that connects people looking for short-term accommodations with property owners who want to rent out their spaces..
+- **[Fit_Quest](https://github.com/Nachiketv02/Fit_Quest)** - A full-stack web application for fitness centers
+offering :  Class/bookings management, Member profiles & progress tracking, Membership/subscription system, Admin dashboard with analytics, Secure user authentication
+
+Tech Stack: React, Node.js, MongoDB, TailwindCSS
 - **[GoFlex](https://github.com/Nachiketv02/GoFlex)** - GoFlex is ride-hailing service that provides bike, taxis, autos, and cabs.
 
 ---
