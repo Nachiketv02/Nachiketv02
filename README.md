@@ -27,12 +27,11 @@ const nachiket = {
     askMeAbout: ["web dev", "tech", "app dev", "MERN"],
     technologies: {
         frontEnd: {
-            js: ["React", "Angular"],
+            js: ["React"],
             css: ["Bootstrap", "TailwindCSS"]
         },
         backEnd: {
-            js: ["Node", "Express"],
-            php: ["Laravel"]
+            js: ["Node", "Express", "NestJS"],
         },
         databases: ["MongoDB", "MySQL"],
         tools: ["Git", "Postman", "VS Code"]
@@ -44,10 +43,11 @@ const nachiket = {
 
 <br>
 
+- 🏢 I'm currently working at **CodeFlash Infotech**
 - 🔭 I'm currently working on **TripBNG**
 - 👯 I'm looking to collaborate on **MERN Stack Projects**
 - 🌱 I'm currently learning **Advanced System Design & Cloud Architecture**
-- 💬 Ask me about **React, Node.js, MongoDB**
+- 💬 Ask me about **React, Node.js, MongoDB, NestJS**
 - 📫 Reach me at: **nachiketv03@gmail.com**
 - ⚡ Fun fact: I debug with `console.log` and I'm not ashamed!
 
@@ -75,7 +75,6 @@ const nachiket = {
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
@@ -84,8 +83,7 @@ const nachiket = {
 <p>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
@@ -97,6 +95,16 @@ const nachiket = {
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</p>
+
+### 🤖 AI Tools
+
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 </div>
@@ -118,14 +126,6 @@ const nachiket = {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nachiketv02&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nachiketv02&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"/>
 </div>
 
 ---
@@ -156,14 +156,6 @@ const nachiket = {
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Nachiketv02/Nachiketv02/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -182,10 +174,6 @@ const nachiket = {
 </a>
 
 <br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=24&fontColor=fff&animation=twinkling" width="100%"/>
 
