@@ -36,7 +36,6 @@ const nachiket = {
         databases: ["MongoDB", "MySQL"],
         tools: ["Git", "Postman", "VS Code"]
     },
-    currentFocus: "Building TripBNG 🌍",
     funFact: "I turn coffee ☕ into code 💻"
 };
 ```
@@ -44,7 +43,6 @@ const nachiket = {
 <br>
 
 - 🏢 I'm currently working at **CodeFlash Infotech**
-- 🔭 I'm currently working on **TripBNG**
 - 👯 I'm looking to collaborate on **MERN Stack Projects**
 - 🌱 I'm currently learning **Advanced System Design & Cloud Architecture**
 - 💬 Ask me about **React, Node.js, MongoDB, NestJS**
